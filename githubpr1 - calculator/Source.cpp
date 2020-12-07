@@ -5,7 +5,8 @@ int main()
 {
 	char op;
 	double br1, br2, rez;
-	//blabla
+	//this is a comment
+
 
 	cout << "*Welcome to my first calculator*" << endl;
 	cout << endl;
